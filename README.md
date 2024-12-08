@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [[ https://akshayportfolio.onrender.com/](https://akshayportfolio.onrender.com/)]
+- 👨‍💻 All of my projects are available at [https://akshayportfolio.onrender.com/(https://akshayportfolio.onrender.com/)]
 
 - 📫 How to reach me **srigadaakshay@gmail.com**
 
