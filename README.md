@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://srigadaakshaykumar.github.io/port-folio/](https://srigadaakshaykumar.github.io/port-folio/)
+- 👨‍💻 All of my projects are available at [[https://srigadaakshaykumar.github.io/port-folio/](https://akshayportfolio.onrender.com/)]
 
 - 📫 How to reach me **srigadaakshay@gmail.com**
 
