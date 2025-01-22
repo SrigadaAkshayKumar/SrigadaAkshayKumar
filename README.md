@@ -7,7 +7,7 @@ Computer Science Student
 As a student passionate about exploring the world of data science, I'm eager to dive into statistical analysis, machine learning, and data visualization. With a growing interest in Web Development, I enjoy crafting responsive websites using React js, python, Nodejs and MySQL.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [http://akshayportfolio.onrender.com]
+* 🖥️  See my portfolio at [http://akshayportfolio.onrender.com](http://akshayportfolio.onrender.com)
 * ✉️  You can contact me at [srigadaakshay@gmail.com](mailto:srigadaakshay@gmail.com)
 * 🌱 I’m currently learning **Data Structures and Algorithms**
 * 📝 I regularly write articles on [https://guideboard-mu.vercel.app/](https://guideboard-mu.vercel.app/)
