@@ -7,8 +7,10 @@ Computer Science Student
 As a student passionate about exploring the world of data science, I'm eager to dive into statistical analysis, machine learning, and data visualization. With a growing interest in Web Development, I enjoy crafting responsive websites using React js, python, Nodejs and MySQL.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://akshayportfolio.onrender.com/)
+* 🖥️  See my portfolio at [http://akshayportfolio.onrender.com]
 * ✉️  You can contact me at [srigadaakshay@gmail.com](mailto:srigadaakshay@gmail.com)
+* 🌱 I’m currently learning **Data Structures and Algorithms**
+* 📝 I regularly write articles on [https://guideboard-mu.vercel.app/](https://guideboard-mu.vercel.app/)
 
 <a href="https://www.github.com/SrigadaAkshayKumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
@@ -24,13 +26,6 @@ src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&styl
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SrigadaAkshayKumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akshaykumarsrigada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/akshayak8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> </p>
-
-<h3 align="left">GitHub Achievements:</h3>
-<p align="left">
-  <a href="https://github.com/srigadaakshaykumar">
-    <img src="[https://github-profile-achievements.vercel.app/api/achievements?srigadaakshaykumar](https://github.com/users/SrigadaAkshayKumar/achievements/pull-shark)" alt="GitHub Achievements" />
-  </a>
-</p>
 
 
 <b>My GitHub Stats</b>
