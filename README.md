@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&styl
 <h3 align="left">GitHub Achievements:</h3>
 <p align="left">
   <a href="https://github.com/srigadaakshaykumar">
-    <img src="https://github-profile-achievements.vercel.app/api/achievements?srigadaakshaykumar" alt="GitHub Achievements" />
+    <img src="[https://github-profile-achievements.vercel.app/api/achievements?srigadaakshaykumar](https://github.com/users/SrigadaAkshayKumar/achievements/pull-shark)" alt="GitHub Achievements" />
   </a>
 </p>
 
