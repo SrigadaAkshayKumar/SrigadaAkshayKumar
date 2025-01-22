@@ -17,13 +17,6 @@ As a student passionate about exploring the world of data science, I'm eager to 
 <a href="https://www.github.com/SrigadaAkshayKumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
 
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=6&exclude_achievements=Issues,Reviews" alt="GitHub Trophies" />
-  </a>
-</p>
-
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
@@ -31,15 +24,6 @@ src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&styl
     <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=6&row=1" alt="GitHub Trophies" />
   </a>
 </p>
-
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=6&rank=SSS,SS,S" alt="GitHub Trophies" />
-  </a>
-</p>
-
 
 ### Skills
 
