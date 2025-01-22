@@ -12,8 +12,18 @@ As a student passionate about exploring the world of data science, I'm eager to 
 * 📝 I regularly write articles on [https://guideboard-mu.vercel.app/](https://guideboard-mu.vercel.app/)
 * 🌱 I’m currently learning : **Data Structures and Algorithms**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srigadaakshaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="srigadaakshaykumar" /> </p>
+
 <a href="https://www.github.com/SrigadaAkshayKumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 ### Skills
 
