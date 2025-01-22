@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshay kumar srigada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay kumar srigada" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshaykumarsrigada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay kumar srigada" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshay_ak8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay_ak8" height="30" width="40" /></a>
 </p>
 
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srigadaakshaykumar&show_icons=true&locale=en&layout=compact" alt="srigadaakshaykumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srigadaakshaykumar&show_icons=true&locale=en" alt="srigadaakshaykumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srigadaakshaykumar&" alt="srigadaakshaykumar" /></p>
