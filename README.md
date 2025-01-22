@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&styl
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=6&exclude_achievements=Issues,Reviews" alt="GitHub Trophies" />
   </a>
 </p>
 
