@@ -6,11 +6,23 @@ Computer Science Student
 
 As a student passionate about exploring the world of data science, I'm eager to dive into statistical analysis, machine learning, and data visualization. With a growing interest in Web Development, I enjoy crafting responsive websites using React js, python, Nodejs and MySQL.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [http://akshayportfolio.onrender.com](http://akshayportfolio.onrender.com)
-* ✉️  You can contact me at [srigadaakshay@gmail.com](mailto:srigadaakshay@gmail.com)
-* 📝 I regularly write articles on [https://guideboard-mu.vercel.app/](https://guideboard-mu.vercel.app/)
-* 🌱 I’m currently learning : **Data Structures and Algorithms**
+- 🌍  I'm based in India
+  
+- 🖥️  See my portfolio at [http://akshayportfolio.onrender.com](http://akshayportfolio.onrender.com)
+  
+- 🌱 I’m currently learning : **Data Structures and Algorithms**
+  
+- 👯 I’m looking to collaborate on [Stock Analyzer](https://github.com/SrigadaAkshayKumar/stock)  
+  
+- 🤝 I’m looking for help with [Secure Chat app](https://github.com/SrigadaAkshayKumar/chatapp-frontend)  
+  
+- 👨‍💻 All of my projects are available at [https://akshayportfolio.onrender.com](https://akshayportfolio.onrender.com)  
+  
+- 📝 I regularly write articles on [https://medium.com/@akshayak8](https://medium.com/@akshayak8)  
+  
+- 📫 How to reach me **srigadaakshay@gmail.com**  
+  
+- 📄 Know about my experiences [https://www.linkedin.com/in/akshaykumarsrigada/](https://www.linkedin.com/in/akshaykumarsrigada/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srigadaakshaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="srigadaakshaykumar" /> </p>
 
@@ -21,7 +33,7 @@ src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&styl
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=6&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SrigadaAkshayKumar&theme=gruvbox&no-bg=true&no-frame=true&column=7&row=1" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -33,19 +45,9 @@ src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&styl
 </p>
 
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srigadaakshaykumar&show_icons=true&locale=en&layout=compact&theme=dark" alt="srigadaakshaykumar" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srigadaakshaykumar&show_icons=true&locale=en&theme=dark" alt="srigadaakshaykumar" /></p>  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srigadaakshaykumar&theme=dark" alt="srigadaakshaykumar" /></p>
 
-<p align="left"> <a href="https://www.github.com/SrigadaAkshayKumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akshaykumarsrigada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/akshayak8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> </p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SrigadaAkshayKumar"><img src="https://github-readme-stats.vercel.app/api?username=SrigadaAkshayKumar&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="SrigadaAkshayKumar's GitHub stats" /></a>
-
-<a href="http://www.github.com/SrigadaAkshayKumar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SrigadaAkshayKumar&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/SrigadaAkshayKumar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrigadaAkshayKumar&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-<a href="https://github.com/SrigadaAkshayKumar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrigadaAkshayKumar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
