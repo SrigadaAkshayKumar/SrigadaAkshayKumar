@@ -8,7 +8,7 @@ As a student passionate about exploring the world of data science, I'm eager to 
 
 - 🌍  I'm based in India
   
-- 🖥️  See my portfolio at [http://akshayportfolio.onrender.com](http://akshayportfolio.onrender.com)
+- 🖥️  See my portfolio at [Portfolio](http://akshayportfolio.onrender.com)
   
 - 🌱 I’m currently learning : **Data Structures and Algorithms**
   
@@ -16,18 +16,24 @@ As a student passionate about exploring the world of data science, I'm eager to 
   
 - 🤝 I’m looking for help with [Secure Chat app](https://github.com/SrigadaAkshayKumar/chatapp-frontend)  
   
-- 👨‍💻 All of my projects are available at [https://akshayportfolio.onrender.com](https://akshayportfolio.onrender.com)  
-  
-- 📝 I regularly write articles on [https://medium.com/@akshayak8](https://medium.com/@akshayak8)  
+- 📝 I regularly write articles on [medium](https://medium.com/@akshayak8)  
   
 - 📫 How to reach me **srigadaakshay@gmail.com**  
   
-- 📄 Know about my experiences [https://www.linkedin.com/in/akshaykumarsrigada/](https://www.linkedin.com/in/akshaykumarsrigada/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/akshaykumarsrigada/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srigadaakshaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="srigadaakshaykumar" /> </p>
 
 <a href="https://www.github.com/SrigadaAkshayKumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://linkedin.com/in/akshay kumar srigada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay kumar srigada" height="30" width="40" /></a>  
+<a href="https://medium.com/@akshayak8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akshayak8" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/@akshay9533384236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akshay9533384236" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/akshay_ak8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay_ak8" height="30" width="40" /></a>  
+</p>  
 
 
 <h3 align="left">🏆 GitHub Trophies</h3>
