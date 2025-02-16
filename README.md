@@ -29,9 +29,9 @@ src="https://img.shields.io/github/followers/SrigadaAkshayKumar?logo=github&styl
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/akshay kumar srigada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay kumar srigada" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/akshaykumarsrigada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay kumar srigada" height="30" width="40" /></a>  
 <a href="https://medium.com/@akshayak8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akshayak8" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/@akshay9533384236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akshay9533384236" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/profile/akshay9533384236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akshay9533384236" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/akshay_ak8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay_ak8" height="30" width="40" /></a>  
 </p>  
 
