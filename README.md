@@ -14,8 +14,6 @@ As a student passionate about exploring the world of data science, I'm eager to 
   
 - 👯 I’m looking to collaborate on [Stock Analyzer](https://github.com/SrigadaAkshayKumar/stock)  
   
-- 🤝 I’m looking for help with [Secure Chat app](https://github.com/SrigadaAkshayKumar/chatapp-frontend)  
-  
 - 📝 I regularly write articles on [medium](https://medium.com/@akshayak8)  
   
 - 📫 How to reach me **srigadaakshay@gmail.com**  
